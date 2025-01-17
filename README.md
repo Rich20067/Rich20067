@@ -20,4 +20,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Rich20067&show_icons=true&theme=gruvbox" width="45%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rich20067&layout=compact&theme=gruvbox" width="45%" />
 </div>
+---
 
