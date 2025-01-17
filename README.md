@@ -42,9 +42,8 @@
 ---
 
 ## 📫 **Cómo contactarme**  
-- 💼 **LinkedIn:** [Tu perfil de LinkedIn](https://linkedin.com/in/tu-perfil)  
-- 🌐 **Portafolio:** [Tu sitio web personal](https://tusitio.com)  
-- 📧 **Email:** tu.email@ejemplo.com  
+- 💼 **LinkedIn:** [Tu perfil de LinkedI](https://www.linkedin.com/in/ricardo-ruiz-351118294/)   
+- 📧 **Email:** ruizricardo504@gmail.com
 
 ---
 
