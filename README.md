@@ -42,7 +42,7 @@
 ---
 
 ## 📫 **Cómo contactarme**  
-- 💼 **LinkedIn:** [ ](https://www.linkedin.com/in/ricardo-ruiz-351118294/)   
+- 💼 **LinkedIn:** [ RICARDO RUIZ](https://www.linkedin.com/in/ricardo-ruiz-351118294/)   
 - 📧 **Email:** ruizricardo504@gmail.com
 
 ---
